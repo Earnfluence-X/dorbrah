@@ -132,7 +132,7 @@ export const seedProducts: SeedProduct[] = [
       "100% cotton wax print · 115 g/m² · 6 full yards (5.5 m) · 46\u2033 width",
     care: "Machine wash cold on gentle cycle. Line dry. Warm iron on reverse while slightly damp.",
     priceNaira: 13500,
-    compareAtNaira: 20,000,
+    compareAtNaira: 20000,
     yards: 6,
     badge: null,
     image: "/images/products/sahel-bloom.jpg",
