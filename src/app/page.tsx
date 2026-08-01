@@ -344,7 +344,7 @@ export default async function HomePage() {
               a room turns to look.”
             </blockquote>
             <p className="mt-6 text-xs uppercase tracking-[0.28em] text-ink-faint">
-              — Dorah Braimoh, Founder
+              — Dolapo Akinlotan, Founder
             </p>
           </Reveal>
 
